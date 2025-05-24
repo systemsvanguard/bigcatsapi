@@ -1,0 +1,155 @@
+{ 
+  "bigcats":[
+    {
+    "id" : 1, 
+	"cat": "Bengal Tiger", 
+	"scientific_name": "Panthera tigris", 	
+	"img1": "tiger01.webp",  
+	"img2": "tiger02.webp",  
+	"size_img": "tiger03.webp",  
+	"page": "tiger", 
+	"wiki": "https://en.wikipedia.org/wiki/tiger",  
+	"weight": "126–221 kg (277-487 lbs)", 
+	"height": "2.3–3.9 meters ",  
+	"geo_range": "Northeastern China, Korea, Russia, parts of India and around the Himalayas",  
+	"synopsis": "The tiger (Panthera Tigris) is the largest wild cat in the world! Having been known to reach weights of over 300 kg, tigers are massive animals. However, even with so much weight and a hefty frame, these cats are apex predators in the wild and will hunt animals such as deer and wild pigs. This is thanks to their impressive combination of sight, sound, and smell, allowing them to stalk and hunt prey efficiently. This hunting is also necessary for maintaining their large bodies, a testament to which a tiger can consume more than 35 kgs of meat at one time.<br /><br />In addition to their adept hunting skills, tigers are also very strong. This strength is prevalent in their bite, which is six times stronger than that of a human and strong enough to bite through even tough hide and meat. Often living alone, these animals learn to fend for themselves early on from their mothers and are highly territorial. However, while they may be the embodiment of feline strength in the wild, problems such as a loss of habitat and poaching (like many other big cats) have seen them join the Endangered classification on the IUCN Red List. As of today, there are only about 4,000 tigers alive, with more than 70% of them living in India."
+	},
+
+    {
+    "id" : 2, 
+	"cat": "African Lion", 
+	"scientific_name": "Panthera leo", 	
+	"img1": "lion01.webp",  
+	"img2": "lion02.webp",  
+	"size_img": "lion03.webp",  
+	"page": "lion", 
+	"wiki": "https://en.wikipedia.org/wiki/lion",  
+	"weight": "160–195 kg (352-429 lbs)", 
+	"height": "2.7–3.5 meters",  
+	"geo_range": "Sub-Saharan Africa expect in desert and rainforests",  
+	"synopsis": "Although lions (Panthera Leo) may not be the largest of the big cats, they are often considered the most majestic and well-known. A lion's diet consists of large herbivores like zebra, wildebeest, buffalo, and even giraffes. Their ability to hunt prey much larger than themselves is thanks to the fact that lions tend to live in groups known as prides. So, unlike many other species of cats, they utilize numbers in combination with their immense strength to take down large prey. Surprisingly, however, lions are one of the few species of cats wherein females are the primary hunters.<br /><br />In appearance, lions are one of the only big cats without any spots or marking across their body. Instead, they have highly muscular bodies covered completely in yellow-golden colored fur. That being said, instead of markings, one unique identifying factor separates lions from the rest of the big cats. You guessed it, the mane! Male lions will have a large and lengthened ring of fur around their neck which is often darker than the rest of their bodies. This mane is a highly prestigious aspect of the animals as it is believed the longer the mane, the more success a lion has had in fighting others of its species."
+	},
+	
+    {
+    "id" : 3, 
+	"cat": "Jaguar", 
+	"scientific_name": "Panthera onca", 	
+	"img1": "jaguar01.webp",  
+	"img2": "jaguar02.webp",  
+	"size_img": "jaguar03.webp",  
+	"page": "jaguar", 
+	"wiki": "https://en.wikipedia.org/wiki/jaguar",  
+	"weight": "56.1–104 kg (123.6 - 230.3 lbs)", 
+	"height": "1.8–2.7 meters",  
+	"geo_range": "Southern Arizona and New Mexico to Northern Argentina and Northeastern Brazil.",  
+	"synopsis": "Holding the title of the largest cat native to North America, the jaguar (Panthera onca) is one of the big 3 when it comes to the cat world. With its name believed to have originated from the South American work for 'fierce beast', this is one animal you don't want to mess with. Reaching lengths in the 2-metre range, these cats may be slightly shorter than their cousins the cougars, but they make up for this in an average of 10-20 more kgs of body weight. This weight is spread across a nimble and athletic body thanks to which jaguars are able to climb trees, move in stealth, and are great hunters. This works well with their interesting hunting style which involves using their immense bite power to directly bite and crush the skull of mammals it preys upon. Moreover, jaguars are also one of the only species which actually enjoy getting into the water and will gladly swim to follow prey or even just for fun!<br /><br />These big cats are mostly found in the Americas living in a variety of areas such as tropical forests, swamps, grasslands, and more. They usually tend to prefer living near bodies of water or rivers as this provides them with a great place to flaunt their swimming skills. Another interesting fact about jaguars is that they actually look quite similar to some leopards. This is because both animals share the black rosettes on their yellow-ish fur which often leads to people misedintifying the two. Thankfully, you can be sure a big cat is a jaguar by looking at the inside of these rosettes as they will be filled with black dots. All in all, the jaguar is an amazingly large big cat which uses its affinity for water and strong bite for a lethal combo!"
+	},
+
+    {
+    "id" : 4, 
+	"cat": "Cougar", 
+	"scientific_name": "Puma concolor", 	
+	"img1": "puma01.webp",  
+	"img2": "puma02.webp",  
+	"size_img": "puma03.webp",  
+	"page": "puma", 
+	"wiki": "https://en.wikipedia.org/wiki/Cougar",  
+	"weight": "53.1–71 kg (117-156 lbs) ", 
+	"height": "1.5–2.4 meters ",  
+	"geo_range": "From Southern Argentina and Chile to Southeastern Alaska",  
+	"synopsis": "Native to North and South America, the cougar (Puma concolor) has many names, such as puma, mountain lion, or catamount. Known for being quite graceful, male cougars can reach weights of up to 125 kgs in some regions, making them quite the large cats. They have quite a wide range in appearance, with fur coloration ranging from a light shade of grey to reddish brown. Cougars also have dark ears, which aren't seen on many other cats, along with a white underside and belly. <br /><br />When it comes to their diet, these cats come under the classification of 'hypercarnivores'. This means the majority of a cougar's diet consists of meat which is often in the form of other mammals like elk, moose, mountain goats, etc. They can hunt such large prey as they tend to ambush animals instead of chasing them. Essentially, a cougar will hide in trees, ledges, or any hidden area and quickly leap onto unsuspecting prey, often cracking their neck with a single bite. Thanks to this ability to find food, cougars are not on the list of endangered species."
+	},
+	
+    {
+    "id" : 5, 
+	"cat": "Leopard", 
+	"scientific_name": "Puma pardus", 	
+	"img1": "leopard01.webp",  
+	"img2": "leopard02.webp",  
+	"size_img": "leopard03.webp",  
+	"page": "leopard", 
+	"wiki": "https://en.wikipedia.org/wiki/Leopard",  
+	"weight": "30–65.8 kg (66-143 lbs)", 
+	"height": "1.6–2.3 meters ",  
+	"geo_range": "Africa and Asia",  
+	"synopsis": "Just slightly larger than the cheetah, although very different in many aspects, is the 5th largest big cat, the leopard (Panthera pardus). Found across Africa, Asia, and parts of Europe, the leopard is one of the most widespread species of big cats worldwide. That being said, among all of these species, the leopard is known for having one of the most lethal and unique hunting tactics. Thanks to a relatively light physique, Leopards are highly agile climbers. They will often spend long hours high up in trees and wait for the right opportunity to attack prey with fantastic agility. Moreover, while not being as fast as their cousins, the cheetahs, leopards are still quite quick on the ground, having been known to run as fast as 60 km/h.<br /><br />  Another amazing thing about leopards is that while most will have a golden fur coat with black 'rosette' markings, there is also a recessive trait in the animals, which can lead to melanistic leopards. These are completely black leopards with stunning yellow eyes that are truly majestic. Often also considered 'black panthers', these leopards are famous in pop culture and are truly unique in the cat family."
+	},
+	
+	
+    {
+    "id" : 6, 
+	"cat": "Cheetah", 
+	"scientific_name": "Acinonyx jubatus", 	
+	"img1": "cheetah01.webp",  
+	"img2": "cheetah02.webp",  
+	"size_img": "cheetah03.webp",
+	"page": "cheetah", 
+	"wiki": "https://en.wikipedia.org/wiki/Cheetah",  
+	"weight": "36.7–54.1 kg (80-119 lbs)", 
+	"height": "1.5–2.3 meters ",  
+	"geo_range": "Sub-Saharan Africa and Northern Iran",  
+	"synopsis": "The cheetah (Acinonyx jubatus) is probably one of the most well-known species within the Felidae, or 'cat' family of mammals. While being the sixth largest cat on Earth, this animal is actually quite slender and boasts a thin frame. Thanks to this unique build, the cheetah holds the touted record of being the world's fastest land animal. Able to reach top speeds of up to 110 km/h (faster than most highways allow), the cheetah is uniquely adapted for speed with a flexible spine, long legs, and specialized muscles which promote acceleration. This speed is highly beneficial in the wild as without a bulky and strong build, it is their pace that allows them to follow and capture prey efficiently.  <br /><br />   Cheetahs can also be distinguished by their entire body markings in the form of black spots which cover them from head to tail. One of the quickest ways to identify a cheetah is by looking at its eyes, which should have black tear strips down to the mouth, protecting their eyes from the sun's glare. Apart from this, cheetahs have a yellow-gold fur color similar to many other big cats, such as the lion. The fur is also quite light, which benefits these animals as they live in warmer savannah regions of Asia and Africa. However, faced with habitat loss and poaching, these beautiful cats are slowly becoming extinct and are currently listed as a 'Vulnerable' species."
+	},
+	
+    {
+    "id" : 7, 
+	"cat": "Snow Leopard", 
+	"scientific_name": "Panthera uncia", 	
+	"img1": "snow_leopard01.webp",  
+	"img2": "snow_leopard02.webp",  
+	"size_img": "snow_leopard03.webp",  
+	"page": "snowleopard", 
+	"wiki": "https://en.wikipedia.org/wiki/Snow_leopard",  
+	"weight": "30-39 kg (66-85 lbs)", 
+	"height": "1.6–2.1 meters",  
+	"geo_range": "Central Asia to Northwestern China and Tibet",  
+	"synopsis": "A charismatic big cat found in 12 countries across Asia, the snow leopard (Panthera uncia) is the 7th largest big cat in the world. With an average weight that can reach up to 55kgs and the longest known length of over 2 meters, this cat is much larger than your friendly household pet. However, the snow leopard is actually quite nimble. Testament to its name, these big cats are often found in alpine and subalpine zones at high altitudes above 3,000 meters. Here, the cats use their well-adapted bodies to traverse mountainous regions such as the Himalayas, Tibetan Plateau, and many others.  <br /><br />   When it comes to their appearance, the snow leopard is known for its grey or white fur, which is covered with black spots. These cats' bodies are quite stocky and feature many unique adaptations that help them live in colder areas. For example, snow leopards are known for having large nostrils, which improve their ability to inhale as much oxygen as possible in low-oxygen mountainous heights. Similarly, these animals have thick fur, a thick tail, and small ears, which all work together to keep them cool."
+	},
+
+    {
+    "id" : 8, 
+	"cat": "Eurasian Lynx", 
+	"scientific_name": "Lynx lynx", 	
+	"img1": "lynx01.webp",  
+	"img2": "lynx02.webp",  
+	"size_img": "lynx03.webp",  
+	"page": "lynx", 
+	"wiki": "https://en.wikipedia.org/wiki/Eurasian_lynx",  
+	"weight": "17.4–21.7 kg (38-47 lbs)", 
+	"height": "0.8–1.3 meters",  
+	"geo_range": "From Western Europe to Russia to Tibet and Central Asia",  
+	"synopsis": "The largest of the four lynx species, the Eurasian lynx (Lynx lynx), is widely distributed from central, northern, and eastern Europe across Central Asia to Siberia. In the south, its range stretches from central China to Tibet and the Himalayas. This beautiful wild cat ranks eighth on this list weighing as much as 30 kg! The Eurasian lynx is a photographer's delight with its gorgeous spotted reddish or brown coat, white underparts, and short 'bobbed tail' with a black tip. The Eurasian lynx, like all wild cats, is well-designed by nature to be an efficient hunter. It can hunt prey as large as roe deer, red deer, and wild boar while also preying on smaller animals like rodents and birds. While the Eurasian lynx still has a stable population and is a Least Concern species on the IUCN Red List, it also faces several threats like habitat loss and degradation, poaching, persecution, and diseases."
+	},	
+	
+    {
+    "id" : 9, 
+	"cat": "Sunda Clouded Leopard", 
+	"scientific_name": "Neofelis diardi", 	
+	"img1": "sundra_leopard01.webp",  
+	"img2": "sundra_leopard02.webp",  
+	"size_img": "sundra_leopard03.webp",
+	"page": "sundracloud", 
+	"wiki": "https://en.wikipedia.org/wiki/Sunda_clouded_leopard",  
+	"weight": "12-26 kg (26 to 57 lbs) ", 
+	"height": "1.3-1.6 meters",  
+	"geo_range": "Native to the islands of Borneo and Sumatra",  
+	"synopsis": "The Sunda clouded leopard (Neofelis diardi) is a Vulnerable species endemic to the Sunda group of islands. The species range includes the Indonesian islands of Sumatra and Kalimantan, Brunei, and the Malaysian states of Sarawak and Sabah. The weight of the species ranges from 12 to 26 kg, but this large-sized cat easily climbs trees and is primarily arboreal in nature. Since the species is highly forest-dependent, deforestation plays a major role in decreasing its population. It is also traded illegally to cater to the demands of the pet market."
+	},
+	
+    {
+    "id" : 10, 
+	"cat": "Mainland Clouded Leopard", 
+	"scientific_name": "Neofelis nebulosa", 	
+	"img1": "clouded_leopard01.webp",  
+	"img2": "clouded_leopard02.webp",  
+	"size_img": "clouded_leopard03.webp",  
+	"page": "clouded", 
+	"wiki": "https://en.wikipedia.org/wiki/Clouded_leopard",  
+	"weight": "16–23 kg (35-50 lbs)", 
+	"height": "1.2–1.6 meters ",  
+	"geo_range": "South of the Himalayas around Nepal, Bhutan and some areas of Northeastern India",  
+	"synopsis": "The elusive clouded leopard (Neofelis nebulosa) is a beautiful animal found in the forests of the Indian subcontinent, China, and Southeast Asia. It can weigh up to 23 kg, but its weight is no hindrance to its climbing abilities which is one of the best among all felids. The clouded leopard, called so because of the blotched pattern on its fur, can climb down trees head first and hang from branches utilizing its tail and hind paws curled around the support. The clouded leopard's strong build and powerful bite help it take down large-sized prey like macaques, hog deer, slow loris, and others. Sadly, this species is as vulnerable on the IUCN Red List and suffers primarily from habitat loss, fragmentation, and degradation.   <br /><br />  All the above wild big cats play an important ecological role in their habitats by keeping their prey population in control. They are also valuable to humans as big cat tourism is extremely popular. These cats, however, also face the greatest threats from poaching and habitat loss, making them some of the most threatened species on Earth."
+	}
+
+	]
+}
