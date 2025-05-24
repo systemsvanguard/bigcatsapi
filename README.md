@@ -1,9 +1,13 @@
-# Book List API
+# Big Cats List API
 A simple JSON-base REST API based on JSON Placeholder. To be used/ consumed by my React.js and Vue.js projects, soon to be deployed.
 
-Live **Site Demo** ~ [Big Cats REST API](http://bigcatsapi.ryanhunter.ca/bigcats/) 
+Live **Site Demo** ~ [Site ~ Big Cats REST API](http://bigcatsapi.ryanhunter.ca/bigcats/) 
 
-![Big Cats REST API 1](http://ryanhunter.ca/images/portfolio/booklistapi_01.png)
+Live **GET All** ~ [https://bigcatsapi.ryanhunter.ca/bigcats](https://bigcatsapi.ryanhunter.ca/bigcats) 
+
+Live **GET by ID 6** ~ [https://bigcatsapi.ryanhunter.ca/bigcats?id=6](https://bigcatsapi.ryanhunter.ca/bigcats?id=6) 
+
+![Big Cats REST API ~ screen # 1](screens/screen_bigcatapi_02.webp )
 
 
 
@@ -17,6 +21,7 @@ Live **Site Demo** ~ [Big Cats REST API](http://bigcatsapi.ryanhunter.ca/bigcats
 - npm start
 - Runs on port 4001 via .env variable --> http://localhost:4001/ 
 - Change the web port as needed.
+- For the currently live deployed site, the GET All endpoint is at 
 
 
 ## Features
@@ -24,6 +29,7 @@ Live **Site Demo** ~ [Big Cats REST API](http://bigcatsapi.ryanhunter.ca/bigcats
 - JSON Placeholder
 - RESTful API
 - JSON 
+- Bulma CSS framework 
 
 
 ## License
@@ -32,9 +38,12 @@ This project is licensed under the terms of the **MIT** license.
 
 ## Screenshots 
 
-![Book List API 1](http://ryanhunter.ca/images/portfolio/booklistapi_01.png)
+![Big Cats REST API ~ screenshot # 1](screens/screen_bigcatapi_01.webp) 
 
+![Big Cats REST API ~ screenshot # 2](screens/screen_bigcatapi_02.webp) 
 
+![Big Cats REST API ~ screenshot # 3](screens/screen_bigcatapi_03.webp) 
 
-![Book List API 2](http://ryanhunter.ca/images/portfolio/booklistapi_02.png)
+![Big Cats REST API ~ screenshot # 4](screens/screen_bigcatapi_04.webp) 
+
 
